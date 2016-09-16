@@ -2,10 +2,10 @@
 
 # Setup
 title:               Ackermann Repository FashionPages, 1809-1828
-tagline:             'Just the fashion Bits'
-description:         ''
+tagline:             'Just the Fashion Bits'
+description:         'Highlighting the fashion images and articles from the Ackermann Repository of the Arts, an early 19th century periodical.'
 url:                 'http://hopegreenberg.github.io'
-baseurl:             '/ackermann'
+baseurl:             '/ackermann-fashion'
 
 # About/contact
 author:
