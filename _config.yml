@@ -1,17 +1,17 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'A Jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://oncomouse.github.io'
-baseurl:             '/ed'
+title:               Ackermann Repository FashionPages, 1809-1828
+tagline:             'Just the fashion Bits'
+description:         ''
+url:                 'http://hopegreenberg.github.io'
+baseurl:             '/ackermann'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Hope Greenberg
+  url:               
+  email:             hope.greenberg@uvm.edu
 
 # Permalinks
 
