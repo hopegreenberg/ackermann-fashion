@@ -1,6 +1,6 @@
 ---
 layout: narrative
-title: July 1812, Plate 4: Evening Dress
+title: "July 1812, Plate 4: Evening Dress"
 publication-date: July 1812
 source: Ackermann Repository of the Arts. "https://archive.org/details/repositoryofarts812acke"
 ---
