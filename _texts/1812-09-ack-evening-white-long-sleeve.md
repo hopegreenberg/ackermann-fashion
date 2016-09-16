@@ -1,5 +1,12 @@
+---
+layout: narrative
+title: "September 1812, Plate 18: Evening Dress"
+publication-date: September 1812
+source: Ackermann Repository of the Arts. "https://archive.org/details/repositoryofarts812acke"
+---
+
 ![Alt] (captioned/1812-09-ack-evening-white-long-sleeve.jpg "Ackermann: September 1812, Evening Dress")
-##PLATE 18.—EVENING DRESS.
+##JULY 1812, PLATE 18.—EVENING DRESS.
 A white crape robe, with demi-train, and long full sleeves, gathered at regular distances, and ornamented with simple bows of ribbon: bosom and back formed very low ; the former ornamented with gold or Chinese silk trimming,
 and united with gold buckles on the right side. The robe is worn over
 a white satin slip, and trimmed at the bottom with lace or silver
