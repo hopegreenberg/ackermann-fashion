@@ -6,7 +6,7 @@ source: Ackermann Repository of the Arts. "https://archive.org/details/repositor
 ---
 
 
-![Alt](captioned/1812-07-ack-evening-emb-crape.jpg "Ackermann: July 1812, Evening Dress")
+![Alt](/./assets/1812-07-ack-evening-emb-crape.jpg "Ackermann: July 1812, Evening Dress")
 ##JULY 1812, PLATE 4. — EVENING DRESS.
 An embroidered crape round robe, decorated at the feet with a deep
 Vandyke fringe; short melon sleeve; bosom and back to correspond.
