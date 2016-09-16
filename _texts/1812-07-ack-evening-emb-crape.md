@@ -1,3 +1,11 @@
+---
+layout: narrative
+title: July 1812, Evening Dress
+publication-date: July 1812
+source: Ackermann Repository of the Arts. "https://archive.org/details/repositoryofarts812acke"
+---
+
+
 ![Alt](captioned/1812-07-ack-evening-emb-crape.jpg "Ackermann: July 1812, Evening Dress")
 ##PLATE 4. — EVENING DRESS.
 An embroidered crape round robe, decorated at the feet with a deep
